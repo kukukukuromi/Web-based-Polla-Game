@@ -1,2 +1,2 @@
 # Web-based-Polla-Game
-a web-based Euro Cup lottery predictions platform
+A web-based Euro Cup lottery predictions platform using by Front-End
